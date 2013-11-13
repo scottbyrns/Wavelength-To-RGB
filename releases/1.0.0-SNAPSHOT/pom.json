@@ -1,0 +1,15 @@
+{
+    "name": "Wavelength to RGB",
+    "description": "Helper method to convert a spectral frequency into an rgb equivalent value and back again.",
+    "groupId": "com.scottbyrns",
+    "artifactId": "WavelenthToRGB",
+    "version": "1.0.0-SNAPSHOT",
+    "developers": [
+        {}
+    ],
+    "sources": [
+        "wavelength.js"
+    ],
+    "dependencies": [],
+    "configuration": {}
+}
